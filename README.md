@@ -1,1 +1,4 @@
 # Banky
+# create
+# Deposite
+# withdraw
